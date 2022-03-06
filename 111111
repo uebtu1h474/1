@@ -1,0 +1,27 @@
+{
+    "osx": {
+        "64": {
+            "so": {
+                "sha1": "eea54bd4804d17a1be80039a77cd4f02deb3f8ea",
+                "url": "http://launcher.mojang.com/jre/osx-64/1.8.0_51/eea54bd4804d17a1be80039a77cd4f02deb3f8ea/jre-osx-64-1.8.0_51.lzma",
+                "version": "1.8.0_51"
+            }
+        }
+    },
+    "windows": {
+        "32": {
+            "so": {
+                "sha1": "5b717fa7802872605efc2edbe95cad04578df89c",
+                "url": "https://launcher.sonoyuncu.network/minecraft/java/jre-win-32-1.8.0_51.lzma",
+                "version": "1.8.0_51"
+            }
+        },
+        "64": {
+            "so": {
+                "sha1": "465d7906386d62ec65ab1a91a881655f769e8e29",
+                "url": "https://launcher.sonoyuncu.network/minecraft/java/jre-win-64-1.8.0_51.lzma",
+                "version": "1.8.0_51"
+            }
+        }
+    }
+}
